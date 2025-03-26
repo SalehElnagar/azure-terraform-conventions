@@ -1,0 +1,6 @@
+terraform {
+  source = "../.."
+}
+
+inputs = {}
+
